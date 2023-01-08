@@ -196,6 +196,7 @@
   font-size: 2.5rem;
   color: hsl(221, 14%, 31%);
   background-color: hsl(30, 25%, 89%);
+  border: none;
   border-bottom: solid 5px hsl(28, 16%, 65%);
   width: 100%;
   height: 100%;
